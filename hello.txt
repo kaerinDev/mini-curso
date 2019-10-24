@@ -1,7 +1,7 @@
 hello git
 
-mais uma linha
+linha 3
 
-outra linha
+linha 4
 
 linha 7
